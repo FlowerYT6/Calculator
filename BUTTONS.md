@@ -1,8 +1,9 @@
-math.e
-infinity
--infinity
-^
-1
+# Buttons
+math.e (e)
+infinity (♾️)
+-infinity (-♾️)
+^ (xy)
+1 
 2
 3
 4
@@ -15,4 +16,4 @@ infinity
 =
 +
 -
-/
+/ (x)
